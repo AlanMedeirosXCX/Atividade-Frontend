@@ -1,0 +1,31 @@
+body {
+    background-color: rgba(59, 117, 1, 0.845)
+}
+h1{
+    text-align: center;
+    color: rgb(253, 248, 248);
+    text-decoration: wavy;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin: 22px auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 25%;
+    border: 5px solid #ffffff;
+}
+.cartão{
+    background-color: aliceblue;
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 15px;
+    border: #fefefe 2px solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{text-align: center;
+    color: aliceblue;
+    
+}
